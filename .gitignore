@@ -1,6 +1,9 @@
 # Ignore ASP.NET Core development application settings
 appsettings.Development.json
 
+# Ignore appsettings.json in MedioClinic
+MedioClinic/appsettings.json
+
 # Ignore connection string files
 ConnectionStrings.config
 
